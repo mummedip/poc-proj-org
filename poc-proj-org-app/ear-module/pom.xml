@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>poc-proj-org.poc-proj-org-app</groupId>
 	<artifactId>ear-module</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0-feb</version>
 	<packaging>ear</packaging>
 	<parent>
 		<artifactId>poc-proj-org-app</artifactId>
@@ -13,19 +13,19 @@
 		<dependency>
 			<groupId>poc-proj-org.poc-proj-org-app</groupId>
 			<artifactId>web-module</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
+			<version>1.0-feb</version>
 			<type>war</type>
 		</dependency>
 		<dependency>
 			<groupId>poc-proj-org.poc-proj-org-app</groupId>
 			<artifactId>service-module</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
+			<version>1.0-feb</version>
 			<type>jar</type>
 		</dependency>
 		<dependency>
 			<groupId>poc-proj-org.poc-proj-org-app</groupId>
 			<artifactId>dao-module</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
+			<version>1.0-feb</version>
 			<type>jar</type>
 		</dependency>
 	</dependencies>

@@ -3,6 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>poc-proj-org.poc-proj-org-app</groupId>
 	<artifactId>dao-module</artifactId>
+	<version>1.0-feb</version>
 	<parent>
 		<artifactId>poc-proj-org-app</artifactId>
 		<groupId>poc-proj-org</groupId>
