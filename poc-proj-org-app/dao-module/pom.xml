@@ -6,6 +6,6 @@
 	<parent>
 		<artifactId>poc-proj-org-app</artifactId>
 		<groupId>poc-proj-org</groupId>
-		<version>0.0.1-SNAPSHOT</version>
+		<version>1.0</version>
 	</parent>
 </project>

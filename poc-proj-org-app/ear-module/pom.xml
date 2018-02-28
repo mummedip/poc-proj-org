@@ -2,12 +2,12 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>poc-proj-org.poc-proj-org-app</groupId>
 	<artifactId>ear-module</artifactId>
-	<!-- <version>0.0.1-SNAPSHOT</version> -->
+	<version>0.0.1-SNAPSHOT</version>
 	<packaging>ear</packaging>
 	<parent>
 		<artifactId>poc-proj-org-app</artifactId>
 		<groupId>poc-proj-org</groupId>
-		<version>0.0.1-SNAPSHOT</version>
+		<version>1.0</version>
 	</parent>
 	<dependencies>
 		<dependency>
